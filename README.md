@@ -14,4 +14,4 @@ Steps to practice from web page:
 4. Now enjoy by typing XPaths  
 
 
-# Note: Small advice better make your hand dirty by gothroughing selenium repo. That will be helpful to understand this way more better.
+# Note: Small advice better make your hand dirty by  going through selenium repo. That will be helpful to understand this way more better.
